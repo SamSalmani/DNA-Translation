@@ -1,5 +1,3 @@
-# %% [code] {"execution":{"iopub.status.busy":"2023-10-30T06:27:12.399035Z","iopub.execute_input":"2023-10-30T06:27:12.399416Z","iopub.status.idle":"2023-10-30T06:27:12.494884Z","shell.execute_reply.started":"2023-10-30T06:27:12.399388Z","shell.execute_reply":"2023-10-30T06:27:12.493452Z"}}
-# -*- coding: utf-8 -*-
 """
 Created on Wed Oct  4 12:53:45 2021
 @author: hsalmanitehrani
