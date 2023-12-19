@@ -5,7 +5,7 @@ Created on Wed Oct  4 12:53:45 2021
 
 
 #read the DNA file
-input = "/kaggle/dna_data/DNA.txt"
+input = "/dna_data/DNA.txt"
 f= open(input, "r")
 seq = f.read()
 
